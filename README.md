@@ -15,7 +15,7 @@
 - 😉 Deep knowledge about deep learning,Odoo, recommendation system and reinforcement system.</br>
 </div> -->
 
-# 💻 My favorite tools and technologies
+# 💻 My tools and technologies
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
